@@ -1,7 +1,7 @@
 FROM java:8-jre
 
 MAINTAINER Michael INTHILITH <minthilith@gmail.com> 
-LABEL version="1.0.0"
+LABEL version="1.0.1"
 LABEL app="pubsub-emulator"
 
 ENV CLOUDSDK_CORE_DISABLE_PROMPTS 1
